@@ -1,0 +1,12 @@
+[
+  { "id": 1, "marca": "Nissan", "modelo": "Versa", "anio": 2024, "precio": 349900, "color": "Blanco" },
+  { "id": 2, "marca": "Volkswagen", "modelo": "Jetta", "anio": 2023, "precio": 489990, "color": "Gris" },
+  { "id": 3, "marca": "Toyota", "modelo": "Corolla", "anio": 2024, "precio": 459900, "color": "Plata" },
+  { "id": 4, "marca": "Chevrolet", "modelo": "Aveo", "anio": 2022, "precio": 279900, "color": "Rojo" },
+  { "id": 5, "marca": "Mazda", "modelo": "Mazda 3", "anio": 2025, "precio": 512900, "color": "Rojo" },
+  { "id": 6, "marca": "Honda", "modelo": "Civic", "anio": 2024, "precio": 569900, "color": "Negro" },
+  { "id": 7, "marca": "Kia", "modelo": "Rio", "anio": 2023, "precio": 329900, "color": "Azul" },
+  { "id": 8, "marca": "Hyundai", "modelo": "Elantra", "anio": 2025, "precio": 474900, "color": "Blanco" },
+  { "id": 9, "marca": "Ford", "modelo": "Mustang", "anio": 2024, "precio": 1049000, "color": "Amarillo" },
+  { "id": 10, "marca": "Nissan", "modelo": "Sentra", "anio": 2025, "precio": 459900, "color": "Negro" }
+]
