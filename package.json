@@ -1,0 +1,19 @@
+{
+  "name": "catalogo-autos-api",
+  "version": "1.0.0",
+  "description": "Microservicio web REST que recupera un catálogo básico de autos (marca, modelo, año, precio y color).",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "author": "Mauricio Israel Mondragón Chávez",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
